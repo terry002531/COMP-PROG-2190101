@@ -12,5 +12,5 @@ Exam Statistics (as announced in class)
 - **Exam 1**: Easy — **59.6%** got full marks; average **19.74 / 25.00**
 - **Exam 2**: Very hard — **30.3%** got **0 / 25.00**; average **11.79 / 25.00**  
   *(28.1% (71/250) students withdrew after this exam.)*
-- **Exam 3**: Hard — **39.7%** of the remaining students got **0 / 30.00**; average **5.70 / 30.00**
+- **Exam 3**: Hard — **39.7%** of the remaining students got **0 / 30.00**; average **7.30 / 30.00**
 - **Overall**: the average if 53.93/100. 
